@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Project name="Java Programs">
+        <Folder name="CoreJava">
+            <File name="AddTwoNumbers.java" />
+            <File name="CountWords.java" />
+            <File name="ReverseString.java" />
+            <File name="SumOfArrayElements.java" />
+            <File name="SortAnArrays.java" />
+            <File name="ConvertStringToArray.java" />
+        </Folder>
+    </Project>
+</NotepadPlus>
